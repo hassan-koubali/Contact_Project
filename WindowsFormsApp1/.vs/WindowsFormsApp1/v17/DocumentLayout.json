@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|c:\\users\\hp\\downloads\\my_contacts\\contact_project\\windowsformsapp1\\frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|solutionrelative:frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|solutionrelative:frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|solutionrelative:frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BE1752-FE5E-443B-B666-1C4659DD7534}|WindowsFormsApp1.csproj|solutionrelative:frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddEditContact.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\frmAddEditContact.cs",
+              "RelativeDocumentMoniker": "frmAddEditContact.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\frmAddEditContact.cs",
+              "RelativeToolTip": "frmAddEditContact.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwH0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:16:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddEditContact.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\frmAddEditContact.cs",
+              "RelativeDocumentMoniker": "frmAddEditContact.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\WindowsFormsApp1\\frmAddEditContact.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Project\\WindowsFormsApp1\\frmAddEditContact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:16:36.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmListContacts.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\FrmListContacts.cs",
+              "RelativeDocumentMoniker": "FrmListContacts.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\FrmListContacts.cs",
+              "RelativeToolTip": "FrmListContacts.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA/wDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:55:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmListContacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\My_Contacts\\Contact_Project\\WindowsFormsApp1\\FrmListContacts.cs",
+              "RelativeDocumentMoniker": "FrmListContacts.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Project\\WindowsFormsApp1\\FrmListContacts.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\Project\\WindowsFormsApp1\\FrmListContacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:53:27.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

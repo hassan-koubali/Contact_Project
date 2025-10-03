@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\bin\Debug\ContactBusinessLayer.dll
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\Contact.frmAddEditContact.resources
+C:\Users\hp\Desktop\Project\WindowsFormsApp1\obj\Debug\Contact.FrmListContacts.resources
